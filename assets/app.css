@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(36, 47, 59);
+}
+.top{
+    width: 100vw;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+}
+.top img{
+    width: 8vw;
+    height: 4vh;
+}
+
+
